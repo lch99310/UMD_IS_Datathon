@@ -13,7 +13,7 @@ If successful, you'll be contributing to the accessibility of one of the largest
 
 ### Presentation
 
-* See [Slides](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.pptx)
+* See [Slides](https://github.com/lch99310/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.pdf)
 * See [Presentation Recording](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.mp4)
 
 ### Source code
@@ -26,5 +26,7 @@ If successful, you'll be contributing to the accessibility of one of the largest
 wang-han.li@marylandsmith.umd.edu
  
 * Chung-Hao Lee <br>
+chunghao.lee@marylandsmith.umd.edu
 
 * Fabienne Yang <br>
+fabienne.yang@marylandsmith.umd.edu
